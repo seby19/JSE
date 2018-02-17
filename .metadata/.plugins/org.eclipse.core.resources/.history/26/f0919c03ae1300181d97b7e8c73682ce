@@ -1,0 +1,9 @@
+package sample;
+
+public class HelloWorld {
+
+	public void prin()
+	{
+		System.out.println("Hello world");
+	}
+}
